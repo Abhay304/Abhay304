@@ -15,7 +15,7 @@ Angular . MongoDB . Vue . Sass
 -  I am a Gadget Freak.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay304&show_icons=true&locale=en&layout=compact" alt="abhay304" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay304&show_icons=true&locale=en&layout=compact" alt="abhay304" /></p>
 
 
 ## You can find me on .. 🤝
