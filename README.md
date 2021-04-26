@@ -1,7 +1,7 @@
 ### Hi there 👋, Abhay
 #### A guy how loves to Tech and fueled with high energy ❤ !!
 
-I'm a **software developer** at **Publicis Sapient** , always up for a discussion on  gadgets, softwares, entrepreneurship, philosophy . ✌💖
+I'm a **software developer** at **Publicis Sapient** , always up for a discussion on  gadgets, softwares, entrepreneurship, philosophy . ✌
 
 ## I work on .. 💻
 React.js . Javascript . HTML5 . CSS3
