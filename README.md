@@ -1,6 +1,5 @@
 ### Hi there 👋, Abhay
 #### A guy how loves to Tech and fueled with high energy ❤ !!
-![A guy how loves to Tech fueled by high energy !!]
 
 ## I work on .. 💻
 React.js . Javascript . HTML5 . CSS3
