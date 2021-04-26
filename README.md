@@ -17,8 +17,6 @@ Angular . MongoDB . Vue . Sass
 
 <p><img height="180" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay304&show_icons=true&locale=en&layout=compact" alt="abhay304" /></p>
 
-<p>&nbsp;<img  height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=abhay304&show_icons=true&locale=en" alt="abhay304" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay304&" alt="abhay304" /></p>
 
 ## You can find me on .. 🤝
