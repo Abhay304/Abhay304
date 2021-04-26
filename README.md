@@ -20,10 +20,13 @@ Angular . MongoDB . Vue . Sass
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhay304)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay304)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay304&show_icons=true&locale=en&layout=compact" alt="abhay304" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay304&show_icons=true&count_private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay304&show_icons=true&locale=en" alt="abhay304" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhay304)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay304&" alt="abhay304" /></p>
+
 
 ![Profile views](https://gpvc.arturio.dev/abhay304)  
+
+
