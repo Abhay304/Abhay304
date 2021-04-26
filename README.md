@@ -1,14 +1,13 @@
 ### Hi there 👋, Abhay
-#### A guy how loves to Tech fueled by high energy !!
+#### A guy how loves to Tech and fueled with high energy ❤ !!
 ![A guy how loves to Tech fueled by high energy !!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-" Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more than willing to follow my fascinations wherever they take me. I’m never satisfied to just come up with ideas. Instead, I have an almost impulsive need to act on them. "
 
-" I am deeply interested in web designing and development. Looking forward to finding a job with more challenges and opportunities. "
+## I work on .. 💻
+React.js . Javascript . HTML5 . CSS3
 
-&& Gadget Freak. 
+Angular . MongoDB . Vue . Sass
 
-Skills:  REACT / JAVASCRIPT / HTML / CSS / ANGULAR / VUE
 
 - 💬 Ask me about Coffee 
 - 📫 How to reach me: abhaykumar30495@gmail.com 
