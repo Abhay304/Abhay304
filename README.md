@@ -17,10 +17,7 @@ Angular . MongoDB . Vue . Sass
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhay304)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhay-kumar-9545a0199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abhay304portfolio.herokuapp.com/)  
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhay304)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay304&show_icons=true&locale=en&layout=compact" alt="abhay304" /></p>
+<p><img height="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay304&show_icons=true&locale=en&layout=compact" alt="abhay304" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay304&show_icons=true&locale=en" alt="abhay304" /></p>
 
