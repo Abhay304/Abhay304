@@ -23,7 +23,6 @@ Skills:  REACT / JAVASCRIPT / HTML / CSS / ANGULAR / VUE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay304)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay304&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhay304)  
 
