@@ -1,7 +1,7 @@
 ### Hi there 👋, Abhay
 #### A guy who loves Tech and fueled with high energy ❤ !!
 
-I'm a ** senior software developer II** at **MakemyTrip** , always up for a discussion on  gadgets, softwares, entrepreneurship, philosophy . ✌
+I'm a **senior software developer II** at **MakemyTrip** , always up for a discussion on  gadgets, softwares, entrepreneurship, philosophy . ✌
 
 ## I work on .. 💻
 React.js . Javascript . HTML5 . CSS3
